@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a19ae9a1-12a1-42b0-ae92-4c9a43cd077c" name="Default Changelist" comment="" />
+    <list default="true" id="a19ae9a1-12a1-42b0-ae92-4c9a43cd077c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf-pseudo/hadoop-env.sh" beforeDir="false" afterPath="$PROJECT_DIR$/conf-pseudo/hadoop-env.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Master.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WIB0fJrhbtlZSLFfMJPrnvOfB9" />
   <component name="ProjectViewState">
@@ -42,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578827006823</updated>
       <workItem from="1578827008094" duration="558000" />
+      <workItem from="1578906560105" duration="60000" />
     </task>
     <servers />
   </component>
