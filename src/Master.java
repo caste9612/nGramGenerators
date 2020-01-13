@@ -52,20 +52,20 @@ public class Master{
         if(counter.get() >= p) {
             for(int k=0;k<p;k++) {
                 booksId[k] = new Integer(counter.get());
-		int v;
-		do{
-                	v=counter.get();
-		} while (!counter.compareAndSet(v, v-1));
+                int v;
+        		do{
+                    v=counter.get();
+        		} while (!counter.compareAndSet(v, v-1));
             }
         }
         else{
             int k=0;
             while(counter.get()>0){
                 booksId[k] = new Integer(counter.get());
-		int v;
-		do{
-                	v=counter.get();
-		} while (!counter.compareAndSet(v, v-1));
+                int v;
+        		do{
+                    v=counter.get();
+        		} while (!counter.compareAndSet(v, v-1));
                 k++;
             }
         }
